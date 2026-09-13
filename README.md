@@ -27,3 +27,5 @@ python fbdown.py "https://www.facebook.com/watch/?v=1234567890"
 ```cmd
 python fbdown.py "https://www.facebook.com/reel/987654321" -q sd -o my_video.mp4 -c cookies.txt
 ```
+
+<!-- checked: 2026-09-13 -->
